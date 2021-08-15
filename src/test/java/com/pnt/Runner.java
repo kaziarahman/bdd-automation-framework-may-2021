@@ -33,7 +33,7 @@ public class Runner {
     }
 
     @Test(dataProvider = "features")
-    public void feature(CucumberFeatureWrapper cucumberFeatureWrapper) {
+    public void feature(@org.jetbrains.annotations.NotNull CucumberFeatureWrapper cucumberFeatureWrapper) {
         testNGCucumberRunner.runCucumber(cucumberFeatureWrapper.getCucumberFeature());
     }
 
