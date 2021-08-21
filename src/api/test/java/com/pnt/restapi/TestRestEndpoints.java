@@ -13,7 +13,7 @@ public class TestRestEndpoints {
 2	/employee/{id}	GET	    JSON	http://dummy.restapiexample.com/api/v1/employee/{id}	Get a single employee data Details
 3	/create	        POST	JSON	http://dummy.restapiexample.com/api/v1/create	        Create new record in database Details
 4	/update/{id}	PUT	    JSON	http://dummy.restapiexample.com/api/v1/update/{id}	    Update an employee record Details
-5	/delete/{id}	DELETE	JSON	http://dummy.restapiexample.com/api/v1/delete/{id}	    Delete an employee record Details
+5	/delete/{id}	DELETE	JSON	{id}	    Delete an employee record Details
 */
 
 
