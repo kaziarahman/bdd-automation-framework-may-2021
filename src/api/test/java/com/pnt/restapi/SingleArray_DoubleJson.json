@@ -4,5 +4,11 @@
     "feature": "different",
     "id": 1234,
     "data": "my data"
+  },
+  {
+    "timestamp": "10-12-1991",
+    "feature": "different2",
+    "id": 4321,
+    "data": "my data2"
   }
 ]

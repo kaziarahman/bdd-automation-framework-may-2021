@@ -18,9 +18,9 @@ Feature: Search items feature
     And user closes the browser
 
     Examples:
-      | bookName             |
-      | java books |
-      | selenium books       |
+      | bookName       |
+      | java books     |
+      | selenium books |
 
 
 

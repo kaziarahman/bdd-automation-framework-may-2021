@@ -21,7 +21,7 @@ public class TestRestEndpoints {
     private String employeesEndPoint = "employees";
     private String employeeEndPoint = "employee/4";
     private String createAnEmployee = "create";
-    private String updateAnEmployee =  "update/5";
+    private String updateAnEmployee = "update/5";
     private String deleteEmployee = "delete/6";
 
 
